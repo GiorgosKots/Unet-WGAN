@@ -99,10 +99,7 @@ If you find this work useful, please cite:
   booktitle={Proceedings of the 34th European Signal Processing Conference (EUSIPCO)},
   year={2026}
 }
-
----
-
-```text
+```
 
 ## 🛠 Installation  
 

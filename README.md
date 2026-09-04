@@ -102,7 +102,9 @@ If you find this work useful, please cite:
 
 ---
 
-### 🛠 Installation  
+```text
+
+## 🛠 Installation  
 
 ```bash
 # Clone repository

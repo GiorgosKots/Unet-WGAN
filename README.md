@@ -89,7 +89,7 @@ Unlike prior GAN approaches, UNet-WGAN:
 If you find this work useful, please cite:
 
 **G. Kotsopoulos, M. A. Zervou, E. Doutsi, and P. Tsakalides**,  
-"UNet-WGAN: A U-Net Based Adversarial Framework for Global and Local Feedback in Antimicrobial Peptide Generation,"  
+"UNet-WGAN: A U-Net Based Adversarial Framework for Global and Local Feedback in Antimicrobial Peptide Generation."  
 *Proceedings of the 34th European Signal Processing Conference (EUSIPCO)*, 2026.
 
 ```bibtex
